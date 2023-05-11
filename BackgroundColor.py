@@ -3,7 +3,7 @@ from PIL import Image
 def main():
     path = "C:\\Users\\vlada\\Documents\\Python\\BackgroundColor\\ATD401.jpg"
     picture = Image.open(path)
-    
+    """""
     width, height = picture.size
     x = 0
     while x < width:
@@ -23,7 +23,7 @@ def main():
             #picture.putpixel((x,y), (0, 0, 0))
                 y += 1
         x += 1
-    
+    """""
     picture.show() #obrazek.show()
 
 if __name__ == "__main__":
