@@ -1,2 +1,2 @@
 # BackgroundColor
-Change of a picture backroung color
+Change of a picture backgroung color
